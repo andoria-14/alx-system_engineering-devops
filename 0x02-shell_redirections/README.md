@@ -1,1 +1,1 @@
-a readme file for shell restroctions
+This is a readme file for the shell permissions project
